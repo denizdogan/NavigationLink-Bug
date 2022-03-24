@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "uipilot",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/canopas/UIPilot",
+      "state" : {
+        "revision" : "3200fdd6cd0c8a7de429dc37ed1fb03f4f2ac21a",
+        "version" : "1.1.5"
+      }
+    }
+  ],
+  "version" : 2
+}
